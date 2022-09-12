@@ -1,0 +1,13 @@
+.mat-card {
+    background-color: #b55e0c;
+}
+.pool-task {
+    box-shadow: 0 4px 14px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    text-align: center;
+}
+.card-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 50px;
+}
