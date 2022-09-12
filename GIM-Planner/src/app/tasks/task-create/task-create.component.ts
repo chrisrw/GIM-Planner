@@ -12,4 +12,7 @@ export class TaskCreateComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  getTasks(){
+    console.log()
+  }
 }
